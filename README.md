@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-The pipex project at 42 School is designed to introduce students to Unix system calls and processes. It involves creating a program that mimics the functionality of the shell's pipe operator, allowing the redirection of input and output streams between multiple processes.
+The pipex project is designed to introduce students to Unix system calls and processes. It involves creating a program that mimics the functionality of the shell's pipe operator, allowing the redirection of input and output streams between multiple processes.
 
 ### Key Objectives
 
